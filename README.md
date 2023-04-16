@@ -17,4 +17,4 @@
 • Реализация функционала калькулятора курса валют в шапке сайта: из
 RUB в USZ, CHF, USD в блоке Денежные переводы.
 
-This site was built using [GitHub Pages](https://pages.github.com/).
+This site was built using [GitHub Pages](https://www.figma.com/file/wtJfNVcKuQPnq2octwaLYG/test_mos-digital?node-id=0-1&t=woK70SDlr6R7Ogjr-0).
