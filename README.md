@@ -1,7 +1,7 @@
 ## Varec денежные переводы
 
 ТЗ делал через Figma.
-[GitHub Pages Макет](https://www.figma.com/file/wtJfNVcKuQPnq2octwaLYG/test_mos-digital?node-id=0-1&t=woK70SDlr6R7Ogjr-0).
+[GitHub Pages Макет тут!](https://www.figma.com/file/wtJfNVcKuQPnq2octwaLYG/test_mos-digital?node-id=0-1&t=woK70SDlr6R7Ogjr-0).
 
 • Чистый код,без использования CMS;
 
