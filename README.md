@@ -1,6 +1,7 @@
 ## Varec денежные переводы
 
-#ТЗ делал через Figma.
+ТЗ делал через Figma. 
+(Макет https://www.figma.com/file/wtJfNVcKuQPnq2octwaLYG/test_mos-digital?node-id=0-1&t=cYJFgoguVXdI9LVs-0)
 
 • Чистый код,без использования CMS;
 
