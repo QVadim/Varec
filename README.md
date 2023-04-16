@@ -18,4 +18,4 @@
 RUB в USZ, CHF, USD в блоке Денежные переводы.
 
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![https://www.figma.com/file/wtJfNVcKuQPnq2octwaLYG/test_mos-digital?node-id=0-1&t=cYJFgoguVXdI9LVs-0](https://myoctocat.com/assets/images/base-octocat.svg)
